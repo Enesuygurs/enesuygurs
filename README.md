@@ -10,8 +10,6 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/enesuygur"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/enesuygurs"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3AEnesuygurs+-user%3AEnesuygurs&type=pullrequests"><img src="https://img.shields.io/badge/Merged%20PRs-30%2B-4f46e5?style=for-the-badge&logo=git&logoColor=white" alt="Merged PRs" /></a>
 </p>
 
